@@ -1,0 +1,10 @@
+--color-active #2196F3
+
+
+nav a {
+    color: black;
+}
+
+nav a:hover {
+    color: blue
+}
